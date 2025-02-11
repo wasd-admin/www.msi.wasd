@@ -1,5 +1,4 @@
 # www.msi.wasd
-**⚠️⚠️⚠️ ALL WORKING 2026 ⚠️⚠️⚠️**
 
 [Crazygames](https://www.crazygames.com/)
 
