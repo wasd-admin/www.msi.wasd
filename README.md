@@ -1,5 +1,4 @@
 # www.msi.wasd
-# Msi.Wasd
 [Crazygames](https://www.crazygames.com/)
 
 [YouTube](https://www.youtube.com/)
