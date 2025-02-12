@@ -1,25 +1,25 @@
-# msi.wasd
+# msi.wasd  
 
-[Crazy Games](https://www.crazygames.com/)
+🎮 [Crazy Games](https://www.crazygames.com/)  
 
-[YouTube](https://www.youtube.com/)
+📺 [YouTube](https://www.youtube.com/)  
 
-[ChatGPT](https://chatgpt.com/)
+🤖 [ChatGPT](https://chatgpt.com/)  
 
-[Slither.io](http://slither.com/io)
+🐍 [Slither.io](http://slither.com/io)  
 
-[Noclip.Website](https://noclip.website/)
+🌎 [Noclip.Website](https://noclip.website/)  
 
-[TotallyScience](https://totallyscience.co/)
+🔬 [TotallyScience](https://totallyscience.co/)  
 
-[CoolMathGames](https://www.coolmathgames.com/)
+➗ [CoolMathGames](https://www.coolmathgames.com/)  
 
-[Minecraft](https://eaglercraft.com/)
+⛏️ [Minecraft](https://eaglercraft.com/)  
 
-[Unblocked Google](https://www.startpage.com/)
+🔍 [Unblocked Google](https://www.startpage.com/)  
 
-[Poki](https://poki.com/)
+🎲 [Poki](https://poki.com/)  
 
-[Roblox](https://www.roblox.com/)
+🕹️ [Roblox](https://www.roblox.com/)  
 
-[Cartoon Games](https://www.cartoonnetwork.co.uk/games)
+📺 [Cartoon Games](https://www.cartoonnetwork.co.uk/games)  
