@@ -24,4 +24,4 @@
 
 📺 [Cartoon Games](https://www.cartoonnetwork.co.uk/games)  
 
-  [Netflix](https://www.netflix.com/)
+📺 [Netflix](https://www.netflix.com/)
