@@ -4,6 +4,8 @@
 
 [YouTube](https://www.youtube.com/)
 
+[ChatGPT](https://chatgpt.com/)
+
 [Slither.io](http://slither.com/io)
 
 [Noclip.Website](https://noclip.website/)
