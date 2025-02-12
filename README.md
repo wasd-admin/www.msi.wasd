@@ -23,3 +23,5 @@
 🕹️ [Roblox](https://www.roblox.com/)  
 
 📺 [Cartoon Games](https://www.cartoonnetwork.co.uk/games)  
+
+[Netflix](https://www.netflix.com/)
