@@ -1,6 +1,6 @@
-# www.msi.wasd
+# msi.wasd
 
-[Crazygames](https://www.crazygames.com/)
+[Crazy Games](https://www.crazygames.com/)
 
 [YouTube](https://www.youtube.com/)
 
